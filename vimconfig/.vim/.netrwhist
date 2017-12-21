@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/yangle/docker-project/luojilab-clm-project/partner'
+let g:netrw_dirhist_2='/Users/yangle'
+let g:netrw_dirhist_3='/Users/yangle/docker-project/luojilab-clm-project'
+let g:netrw_dirhist_4='/Users/yangle/ksxing'
